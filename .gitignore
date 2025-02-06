@@ -1,5 +1,5 @@
 # Compiled file
-a.out
+*.out
 
 # IDE specific files
 .vscode/
