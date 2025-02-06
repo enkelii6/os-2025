@@ -17,7 +17,7 @@ int main(void) {
 
         printf("Register values:\n");
         printf("  EAX: 0x%08x\n", cpuInfo[0]);
-        printf("  EBX: 0x%08x\n", cpuInfo[1]); 
+        printf("  EBX: 0x%08x\n", cpuInfo[1]);
         printf("  ECX: 0x%08x\n\n", cpuInfo[2]);
 
         printf("CPU Frequencies:\n");
